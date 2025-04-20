@@ -160,16 +160,31 @@
           url: https://www.freeok.biz
           description: 影视动漫
 
-    - term: 游戏竞技
-      links:
-        - title: 百度贴吧
-          logo: 百度贴吧.jpg
-          url: ttps://tieba.baidu.com/index.html
-          description: 百度贴吧。
-        - title: 台服战地
-          logo: 战地之王.png
-          url: https://ava.mangot5.com/ava/index
-          description: 台服 AVA 战地之王。
+        - title: 嗷呜动漫
+          logo: movie.png
+          url: https://www.aowu.tv/
+          description: 影视动漫
+
+        - title: 修罗影视
+          logo: movie.png
+          url: https://v.xlys.ltd.ua/
+          description: 影视动漫
+
+        - title: 可可影视
+          logo: movie.png
+          url: https://www.keke2.app
+          description: 影视动漫
+
+    # - term: 游戏竞技
+    #   links:
+    #     - title: 百度贴吧
+    #       logo: 百度贴吧.jpg
+    #       url: ttps://tieba.baidu.com/index.html
+    #       description: 百度贴吧。
+    #     - title: 台服战地
+    #       logo: 战地之王.png
+    #       url: https://ava.mangot5.com/ava/index
+    #       description: 台服 AVA 战地之王。
 
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
